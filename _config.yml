@@ -23,7 +23,7 @@ user:
   name: yuna
   pic: /assets/img/cat.jpg
   picAlt: "catbook"
-  job: undergraduate student 👶🏻📚✏✍🏻
+  job: undergraduate student 👶🏻📚✏
   aboutme: true # comment this out if you don't need the 'about' page.
 
 exclude:
